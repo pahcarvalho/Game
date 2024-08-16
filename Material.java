@@ -1,0 +1,3 @@
+interface Material {
+    String aplicarMaterial();
+}
